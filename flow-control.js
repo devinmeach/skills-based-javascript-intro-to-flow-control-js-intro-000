@@ -3,7 +3,7 @@ function basicTeenager(age) {
 }
 
 function teenager(age) {
-  if('age' >=19){document.write('You are a teenager!')}
+  if('age'>=19){document.write('You are a teenager!')}
 }
 
 function ageChecker(age) {
